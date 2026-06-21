@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+# API response cache and generated figures
+*.pkl
+output/
+*.png
+
+# KDE Dolphin metadata
+.directory
